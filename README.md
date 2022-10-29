@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dharsan-PG
 - 👀 I’m interested in ... Programming
-- 🌱 I’m currently learning ...python
+- 🌱 I’m currently learning ...java
 - 💞️ I’m looking to collaborate on ...software developers
 - 📫 How to reach me ... dharsan.pg2021csea@sece.ac.in
 
